@@ -1,3 +1,27 @@
-# WEB MAP IN PYTHON
+# Web Map Using Python
 
-![alt tag](https://user-images.githubusercontent.com/16940235/84627959-9f46b880-af09-11ea-964f-e802d3891491.PNG)
+Folium is a Python library for dealing with map generations.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install folium.
+
+```bash
+pip install folium
+```
+
+## Usage
+
+```python
+import folium
+
+
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://github.com/Shohanurcsevu/Web-Map-in-Python/blob/master/LICENCE)
