@@ -20,6 +20,13 @@ fg = folium.FeatureGroup(name = "Confirmed Cases") # add 'FeatureGroup'
 
 ```
 
+
+## Output
+
+![mappp](https://user-images.githubusercontent.com/16940235/84679876-abeffe80-af53-11ea-9f7f-ba05f9b6f43a.PNG)
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
